@@ -1,4 +1,4 @@
-# Welcome to Remix 3! (Forking)
+# Welcome to Remix 3! 
 
 This is the source repository for Remix 3. It is under active development.
 
